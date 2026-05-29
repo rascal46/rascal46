@@ -123,7 +123,7 @@ I enjoy learning through hackathons, experimentation, collaborative projects, an
 ![Mindset](https://img.shields.io/badge/Mindset-Curious-orange?style=flat-square)
 
 </div>
----
+
 
 ## Tech Stack
 
@@ -154,19 +154,6 @@ I enjoy learning through hackathons, experimentation, collaborative projects, an
 Arduino Uno • ESP32 • IoT Fundamentals
 
 </p>
-
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rascal46N&show_icons=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascal46N&layout=compact" width="50%" />
-
-</div>
-
----
 
 ## Current Goal
 

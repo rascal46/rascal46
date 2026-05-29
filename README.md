@@ -160,11 +160,9 @@ Arduino Uno • ESP32 • IoT Fundamentals
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rascal46&show_icons=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rascal46N&show_icons=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rascal46" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascal46&layout=compact" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rascal46N&layout=compact" width="50%" />
 
 </div>
 

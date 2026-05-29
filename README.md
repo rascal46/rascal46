@@ -13,11 +13,13 @@ AI • Embedded Systems • IoT • Software Development
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a>                           </a>
+<a>                     </a>
 
 <a href="https://rascal46.github.io/Tech-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<a>                     </a>
 
 <a href="https://rascal46.github.io/Tech-Portfolio/resume%20final.pdf">
 <img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=readthedocs&logoColor=white"/>

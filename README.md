@@ -151,6 +151,7 @@ I enjoy learning through hackathons, experimentation, collaborative projects, an
 
 <img src="https://skillicons.dev/icons?i=arduino,git,vscode"/>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/espressif.png" height="48"/>
+<img src="https://www.flaticon.com/free-icon/powerpoint_888924?term=powerpoint&related_id=888924" height="48"/>
 
 </p>
 

@@ -150,7 +150,7 @@ I enjoy learning through hackathons, experimentation, collaborative projects, an
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=arduino,git,vscode"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/espressif.png"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/espressif.png" height="48"/>
 
 </p>
 

@@ -150,8 +150,7 @@ I enjoy learning through hackathons, experimentation, collaborative projects, an
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=arduino,git,vscode"/>
-
-Arduino Uno • ESP32 • IoT Fundamentals
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/espressif.png"/>
 
 </p>
 
